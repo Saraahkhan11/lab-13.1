@@ -9,7 +9,7 @@ public static void main(String args[]) {
  * inside try and handled the exception in catch block
  */
  num1 = 0;
- num2 = 62 / num1;
+ num2 = 55 / num1;
  System.out.println(num2);
  System.out.println("Hey I'm at the end of try block");
  }
